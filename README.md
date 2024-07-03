@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khalil-bdj
-- 👀 I’m interested in almost evrythings
+- 👀 I’m interested in almost everythings
 - 🌱 I’m currently learning robotic
 
 <!---
